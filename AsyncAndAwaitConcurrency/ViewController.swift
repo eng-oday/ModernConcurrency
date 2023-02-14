@@ -10,6 +10,7 @@ import UIKit
 class ViewModel {
     
     //test
+    //
     
     func loadData(){
         
